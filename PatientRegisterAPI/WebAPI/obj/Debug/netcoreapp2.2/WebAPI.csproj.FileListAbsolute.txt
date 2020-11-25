@@ -1,0 +1,50 @@
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Projects\PatientRegister\PatientRegisterAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache

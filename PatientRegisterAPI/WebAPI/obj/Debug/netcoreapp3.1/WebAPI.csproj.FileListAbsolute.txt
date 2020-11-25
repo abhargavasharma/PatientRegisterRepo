@@ -1,0 +1,5 @@
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\Projects\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,41 @@
+<form #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+  <input type="hidden" name="Id" [value]="service.formData.Id">
+  <div class="form-group">
+    <div class="input-group">
+      <div class="input-group-prepend">
+        <div class="input-group-text bg-white">
+          <i class="fas fa-user-circle" [class.green-icon]="Name.valid" [class.red-icon]="Name.invalid && Name.touched"></i>
+        </div>
+      </div>
+      <input name="Name" #Name="ngModel" [(ngModel)]="service.formData.Name" class="form-control col-md-4"
+        placeholder="Enter your name" required>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="input-group">
+      <div class="input-group-prepend">
+        <div class="input-group-text bg-white">
+          <i class="far fa-address-card"  [class.green-icon]="Address.valid" [class.red-icon]="Address.invalid && Address.touched"></i>
+        </div>
+      </div>
+      <input name="Address" #Address="ngModel" [(ngModel)]="service.formData.Address" 
+      class="form-control col-md-4" placeholder="Enter your address" required maxlength="100" minlength="10">
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-7">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <div class="input-group-text bg-white">
+            <i class="fas fa-calendar-alt"  [class.green-icon]="DOB.valid" [class.red-icon]="DOB.invalid && DOB.touched"></i>
+          </div>
+        </div>
+        <input name="DOB" #DOB="ngModel" [(ngModel)]="service.formData.DOB" class="form-control col-md-7"
+          placeholder="DD/MM/YYYY" required maxlength="10" minlength="10" >
+      </div>
+    </div>
+  </div>
+  <div class="form-group">
+    <button class="btn btn-success btn-lg btn-block col-md-2" type="submit" [disabled]="form.invalid" ><i class="fas fa-save"></i> Save</button>
+  </div>
+</form>

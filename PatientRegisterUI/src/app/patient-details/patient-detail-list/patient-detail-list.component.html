@@ -1,0 +1,17 @@
+<div>
+  <h3><p align="center">Patient Details</p></h3>
+</div>
+<table class="table table-hover">
+  <th>Name</th>
+  <th>Address</th>
+  <th>Date of birth</th>
+  <th>Delete</th>
+  <tr *ngFor="let pd of service.list">
+    <td (click)="populateForm(pd)">{{pd.Name}}</td>
+    <td (click)="populateForm(pd)">{{pd.Address}}</td>
+    <td (click)="populateForm(pd)">{{pd.DOB | date:'dd/MM/yy'}}</td>
+    <td>
+      <i class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(pd.Id)"></i>
+    </td>
+  </tr>
+</table>
